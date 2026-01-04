@@ -2,6 +2,8 @@
 
 This is an individual learning project, created as part of exploring the React useState() hook
 
+The project is built with React, JavaScript, Vite and Tailwind
+
 ## Description
 
 - single page application implementing a simple to dos list
